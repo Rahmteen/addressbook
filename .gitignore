@@ -1,0 +1,10 @@
+# Dependency Directories
+node_modules/
+
+# Runtime Data
+package-lock.json
+.env
+
+# Transpiled Data
+# dist/
+.DS_Store
